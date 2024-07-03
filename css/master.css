@@ -295,6 +295,13 @@ nav .menu a span:nth-child(3) {
   font-size: 1.2rem;
 }
 .footer {
+  font-weight: 600;
+  color: var(--main-background-color);
+}
+.footer span {
+  color: var(--main-text-color);
+}
+.footer {
   background-color: var(--footer-color);
   text-align: center;
 }
